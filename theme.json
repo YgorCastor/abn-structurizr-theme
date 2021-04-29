@@ -1,0 +1,18 @@
+{
+   "name":"Abn Amro Theme",
+   "description":"This theme include some element styles used at abn amro.",
+   "elements":[
+      {
+         "tag":"Abn Amro - Aegis Service",
+         "icon":""
+      },
+	  {
+         "tag":"Angular UI",
+         "icon":""
+      },
+	  {
+         "tag":"Kofax",
+         "icon":""
+      }
+   ]
+}
