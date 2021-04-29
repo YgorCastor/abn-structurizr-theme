@@ -4,15 +4,15 @@
    "elements":[
       {
          "tag":"Abn Amro - Aegis Service",
-         "icon":""
+         "icon":"https://raw.githubusercontent.com/YgorCastor/abn-structurizr-theme/master/static/aegis_logo.png"
       },
 	  {
          "tag":"Angular UI",
-         "icon":""
+         "icon":"https://raw.githubusercontent.com/YgorCastor/abn-structurizr-theme/master/static/angular.png"
       },
 	  {
          "tag":"Kofax",
-         "icon":""
+         "icon":"https://raw.githubusercontent.com/YgorCastor/abn-structurizr-theme/master/static/kofax.png"
       }
    ]
 }
